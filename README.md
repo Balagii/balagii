@@ -72,12 +72,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ---
 
-## 📊 GitHub Stats
-
-![Balazs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balagii&show_icons=true&theme=tokyonight)
-
----
-
 ### 💭 Fun Facts
 - 🎵 Best Concept winner at hackathon at Berklee College of Music
 - 🌐 Taught physics labs and statistics at university level
