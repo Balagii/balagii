@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in modern web technologies and a proven track record of building robust, scalable applications.
 
 ### 🎯 About Me
-- 🔭 Currently building web-based investment tracking tools using **Angular 17** and **.NET Core**
+- 🔭 Currently building web-based investment tracking tools using **Angular 2+** and **.NET Core**
 - 🎓 Master of Software Engineering from **Brandeis University**
 - 🌍 Multilingual: English, Hungarian, Spanish
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 | **Current Expertise** | **Additional Technologies** |
 |:----------------------|:----------------------------|
-| <pre>🌐 Frontend:  Angular 17 • TypeScript<br/>              JavaScript • HTML5 • CSS3<br/><br/>⚙️ Backend:   .NET Core • EF Core 8 • SignalR • C#</br><br/>🗄️ Database:  SQL Server • Azure Managed Instances<br/><br/>☁️ Cloud:     Azure (App Services, Hosting, Databases)<br/><br/>🔧 DevOps:    Git • Azure DevOps • TFS<br/>              CI/CD Pipelines • IIS<br/></pre> | <pre>🔨 Backend:    PHP • Django REST • Apache<br/>               ASP/Visual Basic<br/>🎨 Frontend:   jQuery • Angular 7+ <br/>💻 Desktop:    WinForms • WPF • MVVM • VB6<br/>📊 Database:   MySQL • PostgreSQL • MongoDB<br/>               Oracle • MS Access<br/>🐍 Languages:  Python • Java • C<br/>               Visual C++ • Perl • Bash<br/>🧰 Tools:      Swagger/OpenAPI • XSLT • Jenkins<br/>               MATLAB • R<br/>🎨 Design:     Adobe Photoshop • Illustrator</pre> |
+| <pre>🌐 Frontend:  Angular 17+ • TypeScript<br/>              JavaScript • HTML5 • CSS3<br/><br/>⚙️ Backend:   .NET Core • EF Core 8 • SignalR • C#</br><br/>🗄️ Database:  SQL Server • Azure Managed Instances<br/><br/>☁️ Cloud:     Azure (App Services, Hosting, Databases)<br/><br/>🔧 DevOps:    Git • Azure DevOps • TFS<br/>              CI/CD Pipelines • IIS<br/></pre> | <pre>🔨 Backend:    PHP • Django REST • Apache<br/>               ASP/Visual Basic<br/>🎨 Frontend:   jQuery • Angular 7+ <br/>💻 Desktop:    WinForms • WPF • MVVM • VB6<br/>📊 Database:   MySQL • PostgreSQL • MongoDB<br/>               Oracle • MS Access<br/>🐍 Languages:  Python • Java • C<br/>               Visual C++ • Perl • Bash<br/>🧰 Tools:      Swagger/OpenAPI • XSLT • Jenkins<br/>               MATLAB • R<br/>🎨 Design:     Adobe Photoshop • Illustrator</pre> |
 
 ---
 
