@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ### 🎯 About Me
 - 🔭 Currently building web-based investment tracking tools using **Angular 17** and **.NET Core**
 - 🎓 Master of Software Engineering from **Brandeis University**
-- 🌍 Multilingual: English, Hungarian (Fluent), Spanish (Intermediate)
+- 🌍 Multilingual: English, Hungarian, Spanish
 
 ---
 
@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ### **Current Expertise**
 ```
 🌐 Frontend:  Angular 17 • TypeScript • JavaScript • HTML5 • CSS3
-⚙️  Backend:   .NET Core • EF Core 8 • SignalR • C#
-🗄️  Database:  SQL Server • Azure Managed Instances
-☁️  Cloud:     Azure (App Services, Hosting, Databases)
+⚙️ Backend:   .NET Core • EF Core 8 • SignalR • C#
+🗄️ Database:  SQL Server • Azure Managed Instances
+☁️ Cloud:     Azure (App Services, Hosting, Databases)
 🔧 DevOps:    Git • Azure DevOps • TFS • CI/CD Pipelines • IIS
 ```
 
@@ -51,6 +51,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 - Developed next-generation visitor management systems
 - Created integrations with 30+ access control systems
 - Maintained VMware virtualization infrastructure
+
+...more
 
 ---
 
