@@ -1,14 +1,12 @@
 # Hi there, I'm Balazs Szemes! 👋
 
-## 🚀 Full-Stack Software Engineer | Associate Director @ Harvard Management Company
+## 🚀 Full-Stack Software Engineer
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in modern web technologies and a proven track record of building robust, scalable applications.
 
 ### 🎯 About Me
 - 🔭 Currently building web-based investment tracking tools using **Angular 17** and **.NET Core**
-- 🏢 Associate Director at **Harvard Management Company** in Boston, MA
 - 🎓 Master of Software Engineering from **Brandeis University**
-- 🏆 **Best Concept Award** winner at AT&T Entertainment Hackathon
 - 🌍 Multilingual: English, Hungarian (Fluent), Spanish (Intermediate)
 
 ---
@@ -39,17 +37,17 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ## 💼 Professional Experience
 
-**🎯 Full-Stack Application Developer, Associate Director** | *Harvard Management Company* | 2019–Present
+**🎯 Full-Stack Application Developer, Associate Director** | *Harvard Management Company*
 - Building investment tracking tools with Angular 17 and .NET Core
 - Managing Azure infrastructure and CI/CD pipelines
 - Mentoring junior developers and proposing technology updates
 
-**🔧 Principal Software Engineer** | *Postea Inc.* | 2014–2019
+**🔧 Principal Software Engineer** | *Postea Inc.*
 - Designed web frontends for QubeVu shipment dimensioning devices
 - Developed Windows desktop applications and SDKs
 - Built QA automation and IoT integrations
 
-**🛡️ Software Engineer** | *HID Global* | 2007–2013
+**🛡️ Software Engineer** | *HID Global*
 - Developed next-generation visitor management systems
 - Created integrations with 30+ access control systems
 - Maintained VMware virtualization infrastructure
@@ -79,7 +77,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ---
 
 ### 💭 Fun Facts
-- 🎵 Winner of hackathon at Berklee College of Music
+- 🎵 Best Concept winner at hackathon at Berklee College of Music
 - 🌐 Taught physics labs and statistics at university level
 - 🎨 Created scientific illustrations for research publications
 - 🖥️ Experience spans from desktop apps to cloud infrastructure
